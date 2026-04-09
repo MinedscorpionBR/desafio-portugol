@@ -8,7 +8,7 @@ programa
   {
     se (idade < 16)
     {
-      escreva("Não irá poder votar,babaca😁\n")
+      escreva("Não pode votar,babaca😁\n")
     }
     senao se (idade >= 16 e idade < 18)
     {
@@ -20,7 +20,7 @@ programa
     }
     senao se (idade >= 70)
     {
-      escreva("vota em mim, vovô, eu vou abaixar o preço da picanha... confia, voto facutativo\n")
+      escreva("vota em mim, vovô, eu vou abaixar o preço da picanha... confia... voto facutativo\n")
     }
   }
     funcao inicio()
